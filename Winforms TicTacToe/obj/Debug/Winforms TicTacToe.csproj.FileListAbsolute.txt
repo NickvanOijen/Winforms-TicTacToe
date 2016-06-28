@@ -1,0 +1,12 @@
+C:\Users\Nick van Oijen\Source\Repos\Winforms TicTacToe\Winforms TicTacToe\bin\Debug\Winforms TicTacToe.exe.config
+C:\Users\Nick van Oijen\Source\Repos\Winforms TicTacToe\Winforms TicTacToe\bin\Debug\Winforms TicTacToe.exe
+C:\Users\Nick van Oijen\Source\Repos\Winforms TicTacToe\Winforms TicTacToe\bin\Debug\Winforms TicTacToe.pdb
+C:\Users\Nick van Oijen\Source\Repos\Winforms TicTacToe\Winforms TicTacToe\bin\Debug\aa\Winforms TicTacToe.resources.dll
+C:\Users\Nick van Oijen\Source\Repos\Winforms TicTacToe\Winforms TicTacToe\obj\Debug\Winforms TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\Nick van Oijen\Source\Repos\Winforms TicTacToe\Winforms TicTacToe\obj\Debug\Winforms_TicTacToe.TicTacToe.resources
+C:\Users\Nick van Oijen\Source\Repos\Winforms TicTacToe\Winforms TicTacToe\obj\Debug\Winforms_TicTacToe.Properties.Resources.resources
+C:\Users\Nick van Oijen\Source\Repos\Winforms TicTacToe\Winforms TicTacToe\obj\Debug\Winforms_TicTacToe.TicTacToe.aa.resources
+C:\Users\Nick van Oijen\Source\Repos\Winforms TicTacToe\Winforms TicTacToe\obj\Debug\Winforms TicTacToe.csproj.GenerateResource.Cache
+C:\Users\Nick van Oijen\Source\Repos\Winforms TicTacToe\Winforms TicTacToe\obj\Debug\aa\Winforms TicTacToe.resources.dll
+C:\Users\Nick van Oijen\Source\Repos\Winforms TicTacToe\Winforms TicTacToe\obj\Debug\Winforms TicTacToe.exe
+C:\Users\Nick van Oijen\Source\Repos\Winforms TicTacToe\Winforms TicTacToe\obj\Debug\Winforms TicTacToe.pdb
